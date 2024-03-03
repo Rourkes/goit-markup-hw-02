@@ -132,12 +132,13 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize
+text-transform: capitalize;
 }
 .team-list {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 .team-item {
+    background-color: #FFFFFF;
 }
 .team-img {
 }
@@ -179,7 +180,7 @@ color: #434455;
 .portfolio-h {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.12;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-transform: capitalize
