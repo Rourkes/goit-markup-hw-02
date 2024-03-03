@@ -83,10 +83,10 @@ cursor: pointer;
 background-color: #4D5AE5;
 }
 .section-head-button:hover {
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 .section-head-button:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 /***********  WHAT CAN WE DO ***********/
 .section-wcwd {
