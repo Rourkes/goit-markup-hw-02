@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455
+    color: #434455;
     background-color: #FFFFFF; 
 }
 a {
@@ -73,7 +73,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-cursor: pointer
+cursor: pointer;
+background-color: #4D5AE5;
 }
 .section-head-button:hover {
     background-color: #404BBF
