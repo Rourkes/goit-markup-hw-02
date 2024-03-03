@@ -53,7 +53,13 @@ color: #2e2f42;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
+color: #434;
+}
+.header-menu-link:hover {
+    color: #404bbf;
+}
+.header-menu-link:focus {
+    color: #404bbf; 
 }
 /***********  HEAD ***********/
 .section-head {
@@ -104,7 +110,6 @@ background-color: #4D5AE5;
     color: #434455
 }
 .visually-hidden {
-    position: absolute;
     width: 1px;
     height: 1px;
     margin: -1px;
