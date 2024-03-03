@@ -56,13 +56,13 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.header-menu-item :hover,
-.header-menu-item :focus {
+.header-menu-item:hover,
+.header-menu-item:focus {
     Color: #404bbf;
 }
 
-.header-menu-link :hover,
-.header-menu-link :focus {
+.header-menu-link:hover,
+.header-menu-link:focus {
     Color: #404bbf;
 }
 
