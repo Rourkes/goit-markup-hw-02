@@ -57,11 +57,11 @@ color: #434455;
 }
 .header-menu-item :hover,
 .header-menu-item :focus {
-    Color: #404bbf
+    Color: #404bbf;
 }
 .header-menu-link :hover,
 .header-menu-link :focus {
-    Color: #404bbf
+    Color: #404bbf;
 }
 /***********  HEAD ***********/
 .section-head {
